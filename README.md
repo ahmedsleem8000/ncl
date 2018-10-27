@@ -1,0 +1,2 @@
+# ncl
+Neutrosophic common library
